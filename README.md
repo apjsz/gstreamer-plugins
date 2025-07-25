@@ -5,7 +5,7 @@ Plugin template and some plugins for video processing using machine learning and
 
 How to use the plugin and a sample path:
 
-export GST_PLUGIN_PATH=<your plugin path>
+export GST_PLUGIN_PATH = "your plugin path"
 
 Object detector plugin. The files are:
 
